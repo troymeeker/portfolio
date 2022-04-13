@@ -1,0 +1,33 @@
+* {
+    margin:0px;
+   
+}
+
+.header{
+    background-color: rgb(47, 47, 47);
+    color:rgb(216, 215, 215);
+    width: 100vw;
+    text-align: center;
+    line-height: 180%;
+   
+}
+.main{
+    background-color: rgb(158, 158, 158);
+    height: 80vh;
+    text-align: center;
+  
+   
+}
+.list-item{
+     list-style: none;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    background-color: white;
+
+}
+.img-logo{
+    width: 75px;
+}
