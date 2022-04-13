@@ -21,6 +21,11 @@
 .list-item{
      list-style: none;
 }
+.contact-form{
+    position: relative;
+    top: 300px;
+    border: 1px solid black;
+}
 .footer{
     display: flex;
     justify-content: space-evenly;
